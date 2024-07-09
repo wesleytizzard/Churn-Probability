@@ -1,5 +1,3 @@
-Here's a summary of the project that you could use for a README file on GitHub to showcase your skills for job hunting:
-
 # Telecom Customer Churn Prediction
 
 ## Project Overview
